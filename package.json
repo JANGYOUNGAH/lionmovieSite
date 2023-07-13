@@ -25,7 +25,7 @@
     "vue-spinner": "^1.0.4",
     "vuex": "^4.0.0-0"
   },
-  "homepage": "https://JANGYOUNGAH.github.io/movie",
+  "homepage": "/movie",
   "devDependencies": {
     "@babel/core": "^7.22.9",
     "@babel/preset-env": "^7.22.9",
