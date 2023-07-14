@@ -2,7 +2,8 @@
   <main id="Home-page">
 
     <RandomMovie></RandomMovie>
-    
+    <h1>home</h1>
+    <p>이것은 브랜치를 위한 테스트다 이말이야..</p>
     <movie-list-wrap
       title="상영 영화"
       :movies="movies"
